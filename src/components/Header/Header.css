@@ -1,0 +1,55 @@
+.Header {
+  box-shadow: 0px 25px 40px rgba(0, 0, 0, 0.03);
+}
+
+.header {
+  margin: 0;
+  padding: 12px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.inner-header {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.admin {
+  margin: 0 40px 0 0;
+  padding: 4px 4px 4px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f1f1f3;
+  border-radius: 6px;
+}
+
+.admin-name {
+  margin: 0 24px 0 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 150%;
+  text-align: right;
+  color: #28293d;
+}
+
+.admin-icon {
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  padding: 8px 5px 0 5px;
+  background: #00ae69;
+  border-radius: 4px;
+}
+
+.admin-img {
+  margin: 0;
+  padding: 0;
+}

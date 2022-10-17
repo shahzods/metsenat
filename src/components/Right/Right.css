@@ -1,0 +1,57 @@
+.right {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f7;
+}
+
+.right-text {
+  margin: 0;
+  padding: 67px 0 24px 72px;
+  width: 504px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #28293d;
+}
+
+.president {
+  margin: 0;
+  padding: 0 0 0 72px;
+  display: flex;
+  align-items: center;
+}
+
+.president-img {
+  margin: 0 16px 0 0;
+  padding: 0;
+  border-radius: 15px;
+}
+
+.president-name {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.president-country {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #86868b;
+}
+
+.img {
+  margin: 109px 0 0 0;
+  padding: 0;
+}
